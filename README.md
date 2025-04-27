@@ -2,7 +2,7 @@
 - 👀 I’m passionate about data analysis, data visualization, and turning raw data into actionable insights.
 - 🌱 I’m currently learning advanced SQL, Python for data science, and dashboarding tools like Power BI and Tableau.
 - 💞️ I’m looking to collaborate on data-driven projects, business intelligence solutions, and analytics case studies.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ranjana-kulkarni/) | ranjana@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ranjana-kulkarni/) | ranjanakulkarni279@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love finding hidden stories in data and creating visualizations that make complex information easy to understand!
 
