@@ -1,13 +1,40 @@
-- 👋 Hi, I’m @ranjana-r-2
-- 👀 I’m passionate about data analysis, data visualization, and turning raw data into actionable insights.
-- 🌱 I’m currently learning advanced SQL, Python for data science, and dashboarding tools like Power BI and Tableau.
-- 💞️ I’m looking to collaborate on data-driven projects, business intelligence solutions, and analytics case studies.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ranjana-kulkarni/) | ranjanakulkarni279@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love finding hidden stories in data and creating visualizations that make complex information easy to understand!
+👩‍💻 Ranjana Kulkarni
+Data Enthusiast | Insight Generator | Visualization Specialist
 
+👋 Hello there!
+I'm Ranjana, a passionate data explorer who thrives on transforming messy datasets into clear, impactful insights. With a deep interest in data analysis, storytelling through visuals, and business intelligence, I bring a curious mindset and strong analytical skills to every project.
 
-<!---
-ranjana-r-2/ranjana-r-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I’m Working On
+Enhancing my expertise in advanced SQL and Python for data science
+
+Creating interactive dashboards using Power BI and Tableau
+
+Practicing real-world analytics through case studies and data challenges
+
+💡 What I Love Doing
+Diving deep into data wrangling and exploratory data analysis (EDA)
+
+Designing clear and compelling data visualizations
+
+Building dashboards that make KPIs understandable at a glance
+
+Collaborating on data-driven decision-making projects
+
+🤝 Let’s Collaborate
+I'm open to contributing to:
+
+📊 Business intelligence solutions
+
+📈 Analytics use cases
+
+🧪 Data science learning communities
+
+If you're working on anything related to data, I’d love to connect and collaborate!
+
+📫 Reach Me At
+📧 Email: ranjanakulkarni279@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/ranjana-kulkarni/
+
+🔍 Fun Fact
+I believe every dataset hides a story — and I enjoy bringing that story to life through data storytelling and visual design!
